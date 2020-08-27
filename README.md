@@ -1,14 +1,6 @@
-# Pizza Delivery - Web
+Fumeuro na Brasa Delivery - Painel Administrativo
 
-<img src="/public/pizza-delivery-thumb.png">
-
-## About
-
-This project is part of the final challenge of [Rocketseat bootcamp course](https://rocketseat.com.br/bootcamp). It consists in a delivery application of a fantasy pizza parlor.
-
-## Integration
-
-This web app integrates with an [API](https://github.com/CaioQuirinoMedeiros/delivery_api) built with NodeJS and it's designed to manage the application. There's a [mobile app](https://github.com/CaioQuirinoMedeiros/delivery_app) intended for customers
+Este sistema é composto por API, App Mobile, Painel Administrativo e Painel de Atendimento. Todo inclusos neste GitHub. Duvidas e esclarecimentos, entre em contato por pablohga@gmail.com . Caso deseje este sistema para o seu restuarante e se livrar do UBER EATS de vez, estarei disponivel para desenvolver uma versão persoanlizada para você!
 
 ## Try it now
 
